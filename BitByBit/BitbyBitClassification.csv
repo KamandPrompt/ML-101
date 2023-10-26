@@ -560,7 +560,7 @@ ID,LifeStyle
 558,Bad
 559,Bad
 560,Bad
-561,Average
+561,Bad
 562,Good
 563,Bad
 564,Bad
@@ -1166,7 +1166,7 @@ ID,LifeStyle
 1164,Bad
 1165,Bad
 1166,Bad
-1167,Bad
+1167,Good
 1168,Bad
 1169,Average
 1170,Bad
@@ -1907,7 +1907,7 @@ ID,LifeStyle
 1905,Bad
 1906,Bad
 1907,Average
-1908,Great
+1908,Good
 1909,Bad
 1910,Bad
 1911,Bad
@@ -2032,7 +2032,7 @@ ID,LifeStyle
 2030,Bad
 2031,Bad
 2032,Bad
-2033,Bad
+2033,Average
 2034,Bad
 2035,Bad
 2036,Bad
@@ -2068,7 +2068,7 @@ ID,LifeStyle
 2066,Bad
 2067,Bad
 2068,Bad
-2069,Average
+2069,Bad
 2070,Bad
 2071,Bad
 2072,Bad
@@ -2385,7 +2385,7 @@ ID,LifeStyle
 2383,Bad
 2384,Bad
 2385,Bad
-2386,Bad
+2386,Average
 2387,Bad
 2388,Bad
 2389,Good
@@ -3036,7 +3036,7 @@ ID,LifeStyle
 3034,Bad
 3035,Average
 3036,Good
-3037,Average
+3037,Bad
 3038,Bad
 3039,Good
 3040,Bad
@@ -3406,7 +3406,7 @@ ID,LifeStyle
 3404,Bad
 3405,Bad
 3406,Average
-3407,Bad
+3407,Average
 3408,Bad
 3409,Bad
 3410,Bad
@@ -4085,7 +4085,7 @@ ID,LifeStyle
 4083,Bad
 4084,Bad
 4085,Bad
-4086,Bad
+4086,Average
 4087,Bad
 4088,Bad
 4089,Bad
@@ -4111,7 +4111,7 @@ ID,LifeStyle
 4109,Bad
 4110,Good
 4111,Bad
-4112,Good
+4112,Average
 4113,Bad
 4114,Bad
 4115,Bad
